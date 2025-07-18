@@ -3,7 +3,7 @@ This project applies transfer learning techniques using pre-trained convolutiona
 
 ## Dataset
 The dataset used is from Kaggle:
-Skin Disease Classification Dataset
+https://www.kaggle.com/datasets/vinayjayanti/skin-lesion-image-classification
 
 Multi-class dataset containing high-quality images of skin lesions.
 
